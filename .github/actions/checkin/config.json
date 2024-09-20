@@ -1,0 +1,13 @@
+{
+    "domains": [
+        {
+            "domain": "",
+            "param": {
+                "email": "",
+                "passwd": "",
+                "login": "/auth/login",
+                "checkin": "/user/checkin"
+            }
+        }
+    ]
+}
