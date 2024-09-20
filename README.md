@@ -11,7 +11,8 @@ One-stop Proxies Crawling and Aggregation Platform
 
 - 3、回到 [Sign in to GitHub](https://github.com/settings/tokens?type=beta) 点击Generate new token按钮创建 PAT。名字随便填，过期时间选得久一点，重要的是在Account permissions里授予Gists的读写权限，创建好后复制生成的token稍后用
 ![image](https://github.com/user-attachments/assets/0bd567ae-2517-4245-ba19-5e753d67e762)
-![image](https://github.com/user-attachments/assets/e0bcceeb-d8cf-4d90-9da8-d124379bf7a7)
+![image](https://github.com/user-attachments/assets/555baca1-4531-4d85-82d0-e91806e5a3c4)
+![image](https://github.com/user-attachments/assets/214c99ca-1715-4076-b230-62972eb82dd3)
 
 - 4、到仓库页面的Settings里设置环境变量，变量名为`GIST_LINK`和`GIST_PAT`，值分别为第4和5两步获取到的内容
 ![image](https://github.com/user-attachments/assets/91edee9f-33d2-4404-9abc-427a5dcb541a)
