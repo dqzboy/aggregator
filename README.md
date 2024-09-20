@@ -6,10 +6,8 @@ One-stop Proxies Crawling and Aggregation Platform
 - 1、启用Actions，如下图：
 ![image](https://github.com/user-attachments/assets/e85790b6-ce0f-4b5c-a68e-efeac6540367)
 
-- 2、禁用不必要的workflow，比如Checkin和Process，具体操作如下：
-![image](https://github.com/user-attachments/assets/e644cd6f-791c-4707-8d61-7c57b92e914b)
 
-- 3、创建gist并获取到`username/gist_id`（记得保存，稍后要用），打开 [gist.github.com](https://gist.github.com)，随便创建一个，内容随便填，如图所示
+- 2、创建gist并获取到`username/gist_id`（记得保存，稍后要用），打开 [gist.github.com](https://gist.github.com)，随便创建一个，内容随便填，如图所示
 ![image](https://github.com/user-attachments/assets/ad5b8599-bdaf-4d3d-9af4-7b720ce0c8dc)
 
 
