@@ -18,7 +18,8 @@ One-stop Proxies Crawling and Aggregation Platform
 ![image](https://github.com/user-attachments/assets/7e565dd2-4152-44ff-89d7-bde97f00ec5e)
 
 - 5、到仓库页面的Settings里设置环境变量，变量名为`GIST_LINK`和`GIST_PAT`，值分别为第4和5两步获取到的内容
-![image](https://github.com/user-attachments/assets/a64875fe-3db8-4fe1-86d5-048b8e9bd6dc)
+![image](https://github.com/user-attachments/assets/91edee9f-33d2-4404-9abc-427a5dcb541a)
+![image](https://github.com/user-attachments/assets/0a9d9455-82fc-48d4-b057-248d6fe3012b)
 
 - 6、手动运行测试是否能够正常执行并成功推送到gist
 ![image](https://github.com/user-attachments/assets/f0c23028-e2cd-4c94-ba0a-994f3dd6eb4c)
