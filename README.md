@@ -8,8 +8,7 @@ One-stop Proxies Crawling and Aggregation Platform
 
 
 - 2、创建gist并获取到`username/gist_id`（记得保存，稍后要用），打开 [gist.github.com](https://gist.github.com)，随便创建一个，内容随便填，如图所示
-![image](https://github.com/user-attachments/assets/ad5b8599-bdaf-4d3d-9af4-7b720ce0c8dc)
-
+![image](https://github.com/user-attachments/assets/6b2d8d31-1dcb-4ca0-b983-c68cd31b52e2)
 
 - 4、回到 [Sign in to GitHub](https://github.com/settings/tokens?type=beta) 点击Generate new token按钮创建 PAT。名字随便填，过期时间选得久一点，重要的是在Account permissions里授予Gists的读写权限，创建好后复制生成的token稍后用
 ![image](https://github.com/user-attachments/assets/f808b8d7-1d9d-42d9-99af-b709a38d05c0)
